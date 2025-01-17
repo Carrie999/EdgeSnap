@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+
 @main
 struct EdgeSnapApp: App {
     var body: some Scene {
@@ -15,3 +16,6 @@ struct EdgeSnapApp: App {
         }
     }
 }
+
+
+
